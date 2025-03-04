@@ -69,9 +69,3 @@ python microservice.py
   pip install --upgrade pip
   ```
 
-## Contributing
-Feel free to fork this repo, submit pull requests, or report issues!
-
-## License
-This project is open-source and available under the MIT License.
-
